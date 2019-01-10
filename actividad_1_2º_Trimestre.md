@@ -1,18 +1,16 @@
 ### Procesadores de 8 núcleos
 ## Definición:
 ```
-  Cuando hablamos de un procesador de 8 núcleos nos referimos a un solo cpu que en su interior contiene 8 nucleos,
-no hay que confundir con un sistema multiprocesador, el cual contiene varios cpu's.
+  Un procesador con varios -dos, cuatro, ocho – núcleos es una CPU (Central Processor Unit) con varios núcleos diferentes en una sola base. Con el objetivo de mejorar el rendimiento.
+  No hay que confundir con un sistema multiprocesador, el cual contiene varios cpu's.
+  Es como si la CPU del ordenador, una tablet o un Smartphone tuviese varios cerebros que pudiesen trabajar de forma simultánea; en un mismo trabajo – dividiéndose las tareas – o en trabajos diferentes. Y todo ello sin que el rendimiento de uno se vea afectado por el rendimiento de los otros. Es decir, aumenta la velocidad de ejecución de los programas.
 ```
 ## Características:
-### Procesador "Kaby Lake"
 ```
-  2,59 GHz de velocidad base para cada uno de sus ocho núcleos. 
-  Para la comunicación se han dedicado 256 KB de memoria caché L2 para cada núcleo y 16 MB de memoria caché L3.
-  “Rendimiento frente a velocidad” de 91,45 GOPS/GHz. 
-  8 núcleos/ 16 hilos funcionaría sobre el chipset Z390.
+  
 ```
 ## Procesadores de 8 nucleos actuales:
-```
-![](https://gocdkeys.com/images/captures/intel-core-i9-7900x-33ghz-processor-2.jpg)
-```
+### Intel
+![](https://www.tecnogeek.com/images/notas18/Intel%208a%20generaci%C3%B3n%20-02.jpg)
+### AMD
+![](https://ugc.kn3.net/i/760x/http://i.imgur.com/wfMwk.jpg)
