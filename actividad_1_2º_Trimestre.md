@@ -120,4 +120,5 @@
 ### AMD
 ![](https://ugc.kn3.net/i/760x/http://i.imgur.com/wfMwk.jpg)
 ## Arquitectura procesador 8 núcleos:
-![](/home/carles/Documentos/DAM/SSII/8NUCLEOS.jpeg)
+![](http://www.extremetech.com/wp-content/uploads/2014/04/ibm-power8-microarchitecture-block-diagram.jpg)
+
