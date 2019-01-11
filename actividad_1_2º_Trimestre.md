@@ -35,13 +35,6 @@
 ```
   La tecnología HyperThreading consiste en ‘simular’ dos procesadores (o núcleos) en uno solo, dividiendo la carga de trabajo entre ambas y por tanto mejorando la velocidad de procesamiento.
 ```
-
-
-## Procesadores de 8 nucleos actuales:
-### Intel
-![](https://www.tecnogeek.com/images/notas18/Intel%208a%20generaci%C3%B3n%20-02.jpg)
-### AMD
-![](https://ugc.kn3.net/i/760x/http://i.imgur.com/wfMwk.jpg)
 ## Diagrama de flujo procesador 8 núcleos:
 ![](http://www.extremetech.com/wp-content/uploads/2014/04/ibm-power8-microarchitecture-block-diagram.jpg)
 
