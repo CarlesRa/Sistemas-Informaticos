@@ -5,114 +5,37 @@
   No hay que confundir con un sistema multiprocesador, el cual contiene varios cpu's.
   Es como si la CPU del ordenador, una tablet o un Smartphone tuviese varios cerebros que pudiesen trabajar de forma simultánea en un mismo trabajo dividiéndose las tareas o en trabajos diferentes. Y todo ello sin que el rendimiento de uno se vea afectado por el rendimiento de los otros. Es decir, aumenta la velocidad de ejecución de los programas.
 ```
-## Características:
-### intel i7 8706G
+## Características
+#### Numero de núcleos:
+```
+  Nos dice la cantidad de núcleos que posee el procesador.
+```
+#### TDP (Thermal Design Power):
+```
+  El TDP es la cantidad máxima de potencia que el diseño del procesador permite disipar en forma de calor.
+```
+#### Socket:
+```
+  El socket es hueco donde va alojado el procesador en la placa base. Los hay de distintos tamaños, siendo el LGA1151 utilizado en las dos últimas generaciones de procesadores Intel, mientras que el AM4 es el utilizado por los procesadores Ryzen. 
+```
+#### Memoria cache L2 y L3:
+```
+  La memoria cache L2 y L3 son memorias de unos cuantos MB de capacidad que el procesador lleva en su interior y que utiliza para almacenar cálculos durante el procesamiento de tareas para tardar el menor tiempo posible en acceder a ellos (menos aún que a la RAM). Cuanta más tenga un procesador, normalmente significa que es más potente porque requiere mayor cache para almacenar lo que está procesando.
+```
 
-#### Desempeño
+#### Frecuencia:
 ```
-    Cantidad de núcleos 8
-    Cantidad de subprocesos 16
-    Frecuencia básica del procesador 3,10 GHz
-    Frecuencia turbo máxima 4,10 GHz
-    Caché 8 MB
-    Velocidad del bus 8 GT/s DMI
+  Medida en GHz, la frecuencia hace referencia a la velocidad a la que opera el procesador y el tiempo en el que tarda en procesar las tareas. Aunque ya no es un factor tan importante como lo fue en otro tiempo con procesadores de un solo núcleo, sí que una mayor frecuencia supone un mejor rendimiento, sobre todo en juegos.
 ```
-#### Información adicional
+#### Tipo de memoria:
 ```
-    Opciones integradas disponibles No
-    Descripción 65W Package TDP
+  Es rel tipo de memoria RAM soportada, siendo la mas comun DDR4, aunque ya existen versiones superiores.
+ ```
+ ####  HyperThreading:
 ```
-#### Especificaciones de memoria
+  La tecnología HyperThreading consiste en ‘simular’ dos procesadores (o núcleos) en uno solo, dividiendo la carga de trabajo entre ambas y por tanto mejorando la velocidad de procesamiento.
 ```
-    Tamaño de memoria máximo (depende del tipo de memoria) 64 GB
-    Tipos de memoria DDR4-2400
-    Cantidad máxima de canales de memoria 2
-    Máximo de ancho de banda de memoria 37,5 GB/s
-    Compatible con memoria ECC : No
-```
-#### Gráficos discretos
-```
-    Nombre de gráficos: Tarjeta gráfica Radeon™ RX Vega M GL
-    Frecuencia dinámica máxima de gráficos 1011 MHz
-    Frecuencia de base de gráficos 931 MHz
-    Unidades de cómputo 20
-    Ancho de banda de la memoria de gráficos 179,2 GB/s
-    Interfaz de la memoria de gráficos 1024 bit
-    Salida de gráficos eDP 1.4, DP 1.4 w/ HDR, HDMI 2.0b, DVI
-    Compatibilidad con 4K Yes, at 60Hz
-    Resolución máxima (HDMI)‡ 4096 x 2160@60Hz
-    Resolución máxima (DP)‡ 4096 x 2160@60Hz
-    Resolución máxima (eDP - panel plano integrado)‡ 4096 x 2160@60Hz
-    Compatibilidad con DirectX* 12
-    Compatibilidad con Vulkan* 
-    Compatibilidad con OpenGL* 4.5
-    Codificación y descodificación de hardware H.264 Sí
-    Codificación y descodificación de hardware H.265 (HEVC) Yes, 10-bit
-    Número de pantallas admitidas: 6
-```
-#### Gráficos incorporados al procesador
-```
-    Gráficos del procesador : Gráficos HD Intel® 630
-    Frecuencia de base de gráficos 350 MHz
-    Frecuencia dinámica máxima de gráficos 1,10 GHz
-    Memoria máxima de video de gráficos 64 GB
-    Salida de gráficos eDP 1.4, DP 1.2, HDMI 1.4, DVI
-    Compatibilidad con 4K Yes, at 60Hz
-    Resolución máxima (HDMI 1.4): 4096 x 2160 @30Hz
-    Resolución máxima (DP): 4096 x 2160 @60Hz
-    Resolución máxima (eDP -panel plano integrado): 4096 x 2160 @60Hz
-    Compatibilidad con DirectX* 12
-    Compatibilidad con OpenGL* 4.4
-    Intel® Quick Sync Video Sí
-    Tecnología Intel® InTru™ 3D Sí
-    Tecnología Intel® de video nítido HD Sí
-    Tecnología Intel® de video nítido Sí
-    Nº de pantallas admitidas ‡ 3
-```
-#### Opciones de expansión
-```
-    Revisión de PCI Express 3.0
-    Configuraciones de PCI Express : Up to 1x8, 2x4
-    Cantidad máxima de líneas PCI Express 8
-```
-#### Especificaciones de paquete
-```
-    Zócalos compatibles BGA2270
-    Máxima configuración de CPU 1
-    TJUNCTION 100°C
-    Tamaño de paquete 31mm x 58.5mm
-```
-#### Tecnologías avanzadas
-```
-    Tecnología Intel® Speed Shift Sí
-    Versión de la tecnología Intel® Turbo Boost: 2.0
-    Idoneidad para la plataforma Intel® vPro™: Sí
-    Tecnología Hyper-Threading Intel®: Sí
-    Tecnología de virtualización Intel® (VT-x): Sí
-    Tecnología de virtualización Intel® para E/S dirigida (VT-d): Sí
-    Intel® VT-x con tablas de páginas extendidas (EPT): Sí
-    Intel® Transactional Synchronization Extensions – New Instructions Sí
-    Intel® 64: Sí
-    Conjunto de instrucciones 64-bit
-    Extensiones de conjunto de instrucciones Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2
-    Tecnología Intel® My WiFi Sí
-    Estados de inactividad Sí
-    Tecnología Intel SpeedStep® mejorada Sí
-    Tecnologías de monitoreo térmico Sí
-    Intel® Flex Memory Access Sí
-    Tecnología Intel® Identity Protection ‡ Sí
-    Programa Intel® de imagen estable para plataformas (SIPP) Sí
-    Tecnología Intel® de respuesta inteligente Sí
-```
-#### Seguridad y confiabilidad
 
-    Nuevas instrucciones de AES Intel® Sí
-    Secure Key Sí
-    Intel® Software Guard Extensions (Intel® SGX) Yes with Intel® ME
-    Extensiones de protección de la memoria Intel® Sí
-    Intel® OS Guard Sí
-    Tecnología Intel® Trusted Execution : Sí
-    Bit de desactivación de ejecución : Sí
 
 ## Procesadores de 8 nucleos actuales:
 ### Intel
