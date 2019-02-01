@@ -34,34 +34,43 @@ de tambor, más asequibles, no se continuaron desarrollando. Durante los años 7
 ```
     Los SSD M.2 sólo admiten uno de estos protocolos de conexión, aunque algunos zócalos o bancos de inserción en los que van pinchados puedan ser compatibles con ambos protocolos. Es decir, cada disco tiene sólo una controladora y por lo tanto es un disco SATA III o una PCIe.
 ```
-##### Tipos de PCIe:
+#### Tipos de PCIe:
+
 ```
 La versión de una PCIe nos va a indicar la velocidad máxima de cada pista o carril.
 ```
+
 ![tipos de PCIe](https://naseros.com/wp-content/uploads/SSD-M.2-PCIe-ranuras.png)
-##### Tabla de velocidades segun versión:
+#### Tabla de velocidades segun versión:
 ![tipos de PCIe](https://naseros.com/wp-content/uploads/SSD-M.2-PCIe-velocidades.png)
 #### SSD M.2 NVMe:
+
 ```.
     La conjunción perfecta, una memoria NVMe muy rápida y no volátil junto con una conexión PCIe capaz de transportar todos esos datos por un bus de muy alta velocidad. Los nuevos SSD NVMe superan a los SSD SATA en 4,5 veces 
 en lectura y 2,5 en escritura secuencial, llegando a los 2.500 MB/s y 1.500 MB/s respectivamente.
 ```
-##### Como distinguir entre SSD M.2 SATA Y NVMe:
+
+#### Como distinguir entre SSD M.2 SATA Y NVMe:
+
 ```
     Para distinguir un tipo de disco de otro es muy sencillo. Los discos SSD M.2 SATA tienen 2 ranuras mientras que los NVMe sólo tienen una.
 ```
+
 ![tipos de PCIe](https://naseros.com/wp-content/uploads/SSD-M.2-sata-nvme-ssd-SSD-M.2.jpg)
 
 # Memoria DDR (RAM):
 ## Definición:
+
 ```
     Las memorias DDR (Double Data Rate) también llamadas DDR SDRAM, son un tipo de memoria principal encargada de almacenar 
 datos de programa e información, para ser usada por la CPU, basada en SDRAM (Memoria Dinámica de Acceso Aleatorio con una interfaz Sincrónica). 
 ```
 ### Tipos de DDR:
+
 ```
     De acuerdo al tipo de placa madre que utilicemos en nuestra PC, ésta estará provista de diferentes tipos de zócalos según su antigüedad, y puede que utilice memoria RAM DDR, DDR2, DDR3 ó DDR4.
 ```
+
 ### Tabla con principales características según el tipo:
 ![tipos de ddr](https://www.muycomputer.com/wp-content/uploads/2016/01/DDR4_contra_DDR3_4.jpg)
 
